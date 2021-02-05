@@ -2,13 +2,21 @@
 
 My name is Jhonatan Oliveira, i'm 20 years old;
 
-I'm in the 3th period of graduation in Computer Engineering at [Instituto Federal da Paraíba](https://ifpb.edu.br);
+I'm in the 3th period of graduation in Computer Engineering at **[Federal Institute of Paraíba](https://ifpb.edu.br)** (IFPB); 🏫
 
-## Contacts ✉
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliveirajhon.g@gmail.com)](mailto:oliveirajhon.g@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JhonatanGuilherme)](https://github.com/JhonatanGuilherme)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatanguilherme/)](https://www.linkedin.com/in/jhonatanguilherme/)
+## Contacts 📩
+<p align='center'>
+  <a href="https://github.com/JhonatanGuilherme">
+    <img alt="GitHub" src="https://user-images.githubusercontent.com/60709647/107077715-07654a00-67cc-11eb-8641-ee1a29a53353.png" width=30 hspace=10 />
+  </a>
+  <a href="mailto:oliveirajhon.g@gmail.com">
+    <img alt="Gmail" src="https://user-images.githubusercontent.com/60709647/107077532-c3724500-67cb-11eb-91e3-ff465110fb39.png" width=30 hspace=10 />
+  </a>
+  <a href="https://www.linkedin.com/in/jhonatanguilherme/">
+    <img alt="Linkedin" src="https://user-images.githubusercontent.com/60709647/107077679-fc121e80-67cb-11eb-9700-55c2845bbdea.png" width=30 hspace=10 />
+  </a>
+</p>
 
 ## Stats 📈
-![](https://github-readme-stats.vercel.app/api?username=jhonatanguilherme&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanguilherme&hide=html&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanguilherme&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanguilherme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
