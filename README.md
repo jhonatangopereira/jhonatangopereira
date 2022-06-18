@@ -1,6 +1,6 @@
 # Jhonatan Oliveira 🐱‍💻
 
-My name is Jhonatan Oliveira, i'm 21 years old
+My name is Jhonatan Oliveira, i'm 22 years old
 
 I'm in the 6th period of graduation in Computer Engineering at **[Federal Institute of Paraíba](https://ifpb.edu.br)** (IFPB)
 
