@@ -1,22 +1,17 @@
-# Jhonatan Oliveira 🐱‍💻
+# Jhonatan Oliveira
 
-Hey! My name is Jhonatan Oliveira, i'm 22 years old
+🧑‍💻 Python developer at **[@EnacomGroup](https://www.enacom.com.br/index.html)**. Computer engineering student and researcher at **[@IFPB](https://ifpb.edu.br)**.
+<br><br>
+<a href="https://discordapp.com/users/212988841622110219/">
+  <img alt="discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+&ensp;
+<a href="mailto:jhonatangopereira@gmail.com">
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/jhonatanguilherme/">
+  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-I'm in the 6th period of graduation in Computer Engineering at **[Federal Institute of Paraíba](https://ifpb.edu.br)** (IFPB)
-
-## Contacts 📩
-<p align='center'>
-  <a href="https://github.com/JhonatanGuilherme">
-    <img alt="GitHub" src="https://user-images.githubusercontent.com/60709647/107077715-07654a00-67cc-11eb-8641-ee1a29a53353.png" width=30 hspace=10 />
-  </a>
-  <a href="mailto:jhonatangopereira@gmail.com">
-    <img alt="Gmail" src="https://user-images.githubusercontent.com/60709647/107077532-c3724500-67cb-11eb-91e3-ff465110fb39.png" width=30 hspace=10 />
-  </a>
-  <a href="https://www.linkedin.com/in/jhonatanguilherme/">
-    <img alt="Linkedin" src="https://user-images.githubusercontent.com/60709647/107077679-fc121e80-67cb-11eb-9700-55c2845bbdea.png" width=30 hspace=10 />
-  </a>
-</p>
-
-## Stats 📈
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatanguilherme&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanguilherme&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🎯 Currently loving studying backend development, optimization, machine learning and Python!
