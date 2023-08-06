@@ -24,7 +24,7 @@
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via **jhonatangopereira@gmail.com** to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1XwSwGYpxb74hvnwW4ICGhcqPRjOVyBWI/view?usp=drive_link) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1IZlOh9Lv5Huf1OHxObS0dx-lBaXnZWp5/view?usp=sharing) to get more info.
 <br/>
 <a target="_blank" href="https://medium.com/@jhonatangopereira">
   <img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
