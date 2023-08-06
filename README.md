@@ -11,6 +11,12 @@
 <a href="https://www.linkedin.com/in/jhonatangopereira/">
   <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://medium.com/@jhonatangopereira">
+  <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://stackoverflow.com/users/19215215/jhonatan-pereira">
+  <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 
 <br />
 <br />
@@ -23,18 +29,16 @@
 - 🌱 I’m currently learning Data Engineering and Machine Learning; 
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via **jhonatangopereira@gmail.com** to reach me.
+- 📫 Please email via **jhonatangopereira@gmail.com** to reach me;
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1IZlOh9Lv5Huf1OHxObS0dx-lBaXnZWp5/view?usp=sharing) to get more info.
-<br/>
-<a target="_blank" href="https://medium.com/@jhonatangopereira">
-  <img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-<a target="_blank" href="https://stackoverflow.com/users/19215215/jhonatan-pereira">
-  <img alt="stack-overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>
 
-<br/>
-<br/>
+**Achievements:**
+
+- 📊 [Google Data Analytics certificate](https://www.coursera.org/account/accomplishments/professional-cert/SLNDLBK8ZLNH) at Coursera;
+- 🇬🇧 [B2 Level certificate](https://drive.google.com/file/d/1yppgM-677CB_iDx0-KAXGyGtIlfRbS62/view?usp=sharing) at EnglishScore.
+
+---
+### Tech skills 🧑🏽‍💻
 
 **Languages and libraries:** <br/>
 <a target="_blank" href="">
@@ -122,6 +126,6 @@
 
 <div style="align=center">
   <i>
-    From <a href=https://github.com/jhonatangopereira">Jhonatan</a> with 💜
+    From <a href=https://github.com/jhonatangopereira">Jhonatan</a> with 💜!
   </i>
 </div>
