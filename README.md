@@ -18,11 +18,6 @@
   <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-<br />
-<br />
-
-  <img width="430" align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Python Developer Intern with **[@ENACOM Group](https://www.enacom.com.br/index.html)** working on Optimization projects;
