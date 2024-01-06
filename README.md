@@ -2,21 +2,26 @@
 
 **Python Developer** at **[@ENACOM Group](https://www.enacom.com.br/index.html)**, focused on Optimization and Simulation, with experience in Web Development, Digital Games and currently studying **Data Science** and **Machine Learning**. Graduating in **Computer Engineering** at **[@IFPB](https://ifpb.edu.br)**.
 
-<a href="mailto:jhonatangopereira@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-<a href="https://www.kaggle.com/jhonatangopereira">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jhonatangopereira/">
-  <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@jhonatangopereira">
-  <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://stackoverflow.com/users/19215215/jhonatan-pereira">
-  <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
+<div style="margin:auto">
+  <a href="mailto:jhonatangopereira@gmail.com">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  </a>
+  <a href="https://www.kaggle.com/jhonatangopereira">
+    <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/jhonatangopereira/">
+    <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://medium.com/@jhonatangopereira">
+    <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  </a>
+  <a href="https://stackoverflow.com/users/19215215/jhonatan-pereira">
+    <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  </a>  
+</div>
+
+<br>
+<br>
 
 **Talking about Personal Stuffs:**
 
