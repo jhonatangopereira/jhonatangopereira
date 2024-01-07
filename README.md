@@ -2,9 +2,9 @@
 
 **Python Developer** at **[@ENACOM Group](https://www.enacom.com.br/index.html)**, focused on Optimization and Simulation, with experience in Web Development, Digital Games and currently studying **Data Science** and **Machine Learning**. Graduating in **Computer Engineering** at **[@IFPB](https://ifpb.edu.br)**.
 
-<div style="margin:auto">
+<div>
   <a href="mailto:jhonatangopereira@gmail.com">
-    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+    <img align="left" alt="Gmail"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
   </a>
   <a href="https://www.kaggle.com/jhonatangopereira">
     <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
