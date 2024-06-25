@@ -26,7 +26,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Python Developer Intern with **[@ENACOM Group](https://www.enacom.com.br/index.html)** working on Optimization projects;
-- 🌱 I’m currently learning Data Science and Machine Learning; 
+- 🌱 I’m currently learning Back-end; 
 - 💼 I’m pursuing a Bachelor's degree in Computer Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via **jhonatangopereira@gmail.com** to reach me;
