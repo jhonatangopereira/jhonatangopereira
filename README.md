@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Jhonatan
 
-**Python Developer** at **[@ENACOM Group](https://www.enacom.com.br/index.html)**, focused on Optimization and Simulation, with experience in Web Development, Digital Games and currently studying **Data Science** and **Machine Learning**. Graduating in **Computer Engineering** at **[@IFPB](https://ifpb.edu.br)**.
+**Python Developer**, focused on Optimization and Simulation, with experience in Web Development, Software Engineering and currently studying **Back-end**. Graduating in **Computer Engineering** at **[@IFPB](https://ifpb.edu.br)**.
 
 <div>
   <a href="mailto:jhonatangopereira@gmail.com">
