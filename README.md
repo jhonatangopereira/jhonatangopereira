@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Jhonatan
 
-**Python Developer**, focused on Software Engineering, with experience in Web Development, Optimization and Simulation currently studying **Back-end**. Graduating in **Computer Engineering** at **[@IFPB](https://ifpb.edu.br)**.
+**Python Developer**, focused on Software Engineering, with experience in Web Development, Optimization and Simulation, and currently studying **Back-end**. Graduating in **Computer Engineering** at **[@IFPB](https://ifpb.edu.br)**.
 
 <div>
   <a href="mailto:jhonatangopereira@gmail.com">
