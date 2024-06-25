@@ -70,11 +70,15 @@
 </a>
 
 **Frameworks:** <br/>
-<a target="_blank" href="">
+<a href="">
+  <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+</a>
+&ensp;
+<a href="">
   <img alt="fastapi" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
 </a>
 &ensp;
-<a target="_blank" href="">
+<a href="">
   <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </a>
 &ensp;
@@ -83,6 +87,10 @@
 </a>
 
 **Databases:** <br/>
+<a target="_blank" href="">
+  <img alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+&ensp;
 <a target="_blank" href="">
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
