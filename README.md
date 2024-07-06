@@ -2,21 +2,25 @@
 
 **Python Developer**, focused on Software Engineering, with experience in Web Development, Optimization and Simulation, and currently studying **Back-end**. Graduating in **Computer Engineering** at **[@IFPB](https://ifpb.edu.br)**.
 
-<div>
+<div align="center">
   <a href="mailto:jhonatangopereira@gmail.com">
-    <img align="left" alt="Gmail"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+    <img alt="Gmail"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
   </a>
+  &ensp;
   <a href="https://www.kaggle.com/jhonatangopereira">
-    <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+    <img alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
   </a>
+  &ensp;
   <a href="https://www.linkedin.com/in/jhonatangopereira/">
-    <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
+  &ensp;
   <a href="https://medium.com/@jhonatangopereira">
-    <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+    <img alt="Jhonatan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
+  &ensp;
   <a href="https://stackoverflow.com/users/19215215/jhonatan-pereira">
-    <img align="left" alt="Jhonatan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+    <img alt="Jhonatan's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>  
 </div>
 
