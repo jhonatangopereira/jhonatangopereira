@@ -1,6 +1,6 @@
 ## Jhonatan Pereira
 
-Backend Developer at @WayCarbon | Graduated in Computer Engineer | Data Enthusiast
+Backend Developer at @[WayCarbon](https://github.com/waycarbon) | Graduated in Computer Engineer | Data Enthusiast
 
 Engineer with a passion for Python and solving complex problems through scalable solutions.
 
