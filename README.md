@@ -1,6 +1,6 @@
 ## Jhonatan Pereira
 
-CTO @MindIndex | Backend Developer | Data Enthusiast
+Backend Developer at @WayCarbon | Graduated in Computer Engineer | Data Enthusiast
 
 Engineer with a passion for Python and solving complex problems through scalable solutions.
 
